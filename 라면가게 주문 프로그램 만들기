@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	string menu[] = { "일반 라면", "김치 라면", "치즈 라면", "떡 라면", "떡 만두 라면" };
+	string menu[] = { "일반 라면", "김치 라면", "치즈 라면", "떡 라면", "떡 만두 라면 " };
 	int prices[] = { 3500, 4000, 4200, 4300, 4500 };
 	int totalcomprice = 0;
 
